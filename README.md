@@ -15,6 +15,5 @@ Then finally, we use a conditional diffusion model, that uses a UNet is trained 
 Here, for example are the images generated, when you type in "man", versus when you type "woman". Obviously, it is not perfect 
 
 
-(Need to show the images here)
-
-![alt text](project/outputs/smiling_woman_20251111_220155.png)
+![alt text](woman_20251110_215059.png)
+Prompt: "Smiling woman"
