@@ -17,3 +17,6 @@ Here, for example are the images generated, when you type in "man", versus when 
 
 ![alt text](woman_20251110_215059.png)
 Prompt: "Smiling woman"
+
+![alt text](woman_20251110_215059.png)
+Prompt: "man"
