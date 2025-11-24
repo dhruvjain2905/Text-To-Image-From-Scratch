@@ -1,8 +1,9 @@
 # Text-To-Image-From-Scratch
 A full training and inference pipeline for generating images from text using a conditional latent diffusion model. 
 
+To run, make sure you have cloned the repository and downloaded the "models" directory containing trained models that used this pipeline. It can be found here: https://drive.google.com/drive/folders/1TI3GbpeOxqToHlBlmxEavMkZvVAvMu8j?usp=sharing
 
-To run, make sure you cloned the repository with the "models" directory containing the pre-trained models. After that, install all packages from requirements.txt and simply run
+After that, install all packages from requirements.txt and simply run
 
 `python generate_live.py`
 
