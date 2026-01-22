@@ -3,6 +3,7 @@
 A full **training + inference pipeline** for generating images from text using a **conditional latent diffusion model**, built from scratch.
 
 👉 **Try it live:** https://huggingface.co/spaces/djain14/conditional-ldm 
+
 📖 **Read the full write-up:** https://medium.com/@dhruvjain2905/how-image-generation-works-c2f822707236
 
 ---
